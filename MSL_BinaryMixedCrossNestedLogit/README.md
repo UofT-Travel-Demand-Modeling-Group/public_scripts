@@ -1,15 +1,15 @@
-This code combines a binary logit model with cross nested logit model.
-You can access the published paper related to this code from here: 
-  
-Platform GAUSS14
-Authors: Saeed Shakib, Khandker Nurul Habib, Jason Hawkins
-Support: Please contact the authors with questions or suggestions at saeed.shakib@mail.utoronto.ca or khandker.nurulhabib@utoronto.ca. 
-
+This code combines a binary logit model with cross nested logit model.</br>
+You can access the published paper related to this code from here: </br>
+  </br>
+Platform GAUSS14</br>
+Authors: Saeed Shakib, Khandker Nurul Habib, Jason Hawkins</br>
+Support: Please contact the authors with questions or suggestions at saeed.shakib@mail.utoronto.ca or khandker.nurulhabib@utoronto.ca. </br>
+</br>
 
 ################################################</br>
-Copyright (c) 2020 Saeed Shakib, Khandker Nurul Habib, Jason Hawkins
+Copyright (c) 2020 Saeed Shakib, Khandker Nurul Habib, Jason Hawkins</br>
 
-All rights reserved.
+All rights reserved.</br>
 
 Permission is hereby granted, without written agreement to use,
 copy, modify, and distribute this code and its documentation for research 
