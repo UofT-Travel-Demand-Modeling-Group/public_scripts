@@ -6,7 +6,7 @@ Authors: Saeed Shakib, Khandker Nurul Habib, Jason Hawkins
 Support: Please contact the authors with questions or suggestions at saeed.shakib@mail.utoronto.ca or khandker.nurulhabib@utoronto.ca. 
 
 
-################################################
+################################################</br>
 Copyright (c) 2020 Saeed Shakib, Khandker Nurul Habib, Jason Hawkins
 
 All rights reserved.
@@ -26,5 +26,5 @@ THE COPYRIGHT HOLDER SPECIFICALLY DISCLAIMS ANY WARRANTIES, INCLUDING,
 BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND
 FITNESS FOR A PARTICULAR PURPOSE.  THE CODE PROVIDED HEREUNDER IS
 ON AN "AS IS" BASIS, AND THE COPYRIGHT HOLDER HAS NO OBLIGATION TO
-PROVIDE MAINTENANCE, SUPPORT, UPDATES, ENHANCEMENTS, OR MODIFICATIONS.
+PROVIDE MAINTENANCE, SUPPORT, UPDATES, ENHANCEMENTS, OR MODIFICATIONS.</br>
 ################################################
