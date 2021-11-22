@@ -1,5 +1,5 @@
 This code combines a binary logit model with cross nested logit model.</br>
-You can access the published paper related to this code from here: </br>
+You can access the published paper related to this code from here: TBD</br>
   </br>
 Platform GAUSS14</br>
 Authors: Saeed Shakib, Khandker Nurul Habib, Jason Hawkins</br>
